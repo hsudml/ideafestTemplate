@@ -1,2 +1,24 @@
 # simpleSteps
-Simple Steps for Better College Writing is a 50-minute workshop and handout to teach and learn how to properly paraphrase and quote by Lydia Leonard-Rhodes.
+
+## Workshop
+
+__Simple Steps for Better College Writing__ is a 50-minute workshop and handout to teach and learn how to properly paraphrase and quote by Lydia Leonard-Rhodes.
+
+Lydia created the workshop as part of the Humboldt State University [SkillShops](http://humboldt.libcal.com/workshops) series as a [Digital Media & Learning Intern](http://libguides.humboldt.edu/dml/apply) in Spring 2018. The original workshops were offered on [March 29](https://humboldt.libcal.com/event/40468985) and [April 13](https://humboldt.libcal.com/event/4046920), 2018.
+
+## Activities
+
+Lydia's activities use material from [_How cats evolved to win the Internet_](https://www.nytimes.com/2016/10/16/opinion/sunday/how-cats-evolved-to-win-the-internet.html) by Abigail Tucker. 
+
+## Guide
+
+[Printable booklet](https://drive.google.com/open?id=1ldjjnL0u3h0MrrpV_UmceLd7EQ-hajS0) (not accessible).
+
+[Digital version](https://docs.google.com/presentation/d/e/2PACX-1vTCVhdceLf5UF0LdXcrMNZCku70goV4O0d4850DF1pIzWeh4t9YxGAImt_9Wx7frS0N13OFyiCFJahI/pub?start=false&loop=false&delayms=3000) (also not accessible).
+
+[Webpage](https://hsudml.github.io/simpleSteps/guide) (accessible!).
+
+---
+## Other Links
+
+For more info, questions, or suggestions, email dml@humboldt.edu
