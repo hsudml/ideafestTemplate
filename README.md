@@ -12,11 +12,11 @@ You can view and remix the [presentation slides](https://docs.google.com/present
 Lydia's activities use material from [_How cats evolved to win the Internet_](https://www.nytimes.com/2016/10/16/opinion/sunday/how-cats-evolved-to-win-the-internet.html) by Abigail Tucker. 
 
 ## Guide
-[Printable booklet](https://drive.google.com/open?id=1ldjjnL0u3h0MrrpV_UmceLd7EQ-hajS0) (not accessible).
 
-[Digital version](https://docs.google.com/presentation/d/e/2PACX-1vTCVhdceLf5UF0LdXcrMNZCku70goV4O0d4850DF1pIzWeh4t9YxGAImt_9Wx7frS0N13OFyiCFJahI/pub?start=false&loop=false&delayms=3000) (also not accessible).
-
-[Webpage](https://hsudml.github.io/simpleSteps/guide) (accessible!).
+Multiple versions of the same content:
++ [Printable booklet](https://drive.google.com/open?id=1ldjjnL0u3h0MrrpV_UmceLd7EQ-hajS0) (not accessible).
++ [Digital version](https://docs.google.com/presentation/d/e/2PACX-1vTCVhdceLf5UF0LdXcrMNZCku70goV4O0d4850DF1pIzWeh4t9YxGAImt_9Wx7frS0N13OFyiCFJahI/pub?start=false&loop=false&delayms=3000) (also not accessible).
++ [Webpage](https://hsudml.github.io/simpleSteps/guide) (accessible!).
 
 ---
 ## Other Links
