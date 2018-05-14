@@ -14,9 +14,9 @@ Lydia's activities use material from [_How cats evolved to win the Internet_](ht
 ## Guide
 
 Multiple versions of the same content:
++ [Webpage](https://hsudml.github.io/simpleSteps/guide) (screen reader friendly).
 + [Printable booklet](https://drive.google.com/open?id=1ldjjnL0u3h0MrrpV_UmceLd7EQ-hajS0) (not accessible).
 + [Digital version](https://docs.google.com/presentation/d/e/2PACX-1vTCVhdceLf5UF0LdXcrMNZCku70goV4O0d4850DF1pIzWeh4t9YxGAImt_9Wx7frS0N13OFyiCFJahI/pub?start=false&loop=false&delayms=3000) (also not accessible).
-+ [Webpage](https://hsudml.github.io/simpleSteps/guide) (accessible!).
 
 ---
 ## Other Links
