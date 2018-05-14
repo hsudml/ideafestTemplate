@@ -1,4 +1,4 @@
-# simpleSteps
+# Simple Steps for Better College Writing
 
 ## Workshop
 
