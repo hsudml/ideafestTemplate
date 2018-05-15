@@ -3,6 +3,9 @@
 
 @import "{{ site.theme }}";
 
-h1 { 
-  font-family: serif;
+.upright {
+  height: 181px;
+  width: 57px;
+  float: left;
+  margin-right: 5px;
 }
