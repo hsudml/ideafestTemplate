@@ -4,9 +4,10 @@
 @import "{{ site.theme }}";
 
 .skillshopsBanner {
-  font-family: lobster;
+  font-family: lobster, helvetica, sans-serif;
   color: rgba(150,150,150,0.2);
   font-size: 20vw;
+  text-align: center;
   position: fixed;
   padding: 0;
   transform: rotate(-2deg);
