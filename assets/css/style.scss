@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+body {
+  overflow: hidden;
+}
+
 .skillshopsBanner a {
   text-decoration: none;
   color: rgba(0, 102, 153,0.8);
@@ -17,6 +21,7 @@
   text-shadow: 8px 8px 4px rgba(0,0,0,0.2);
   transform: rotate(-2deg);
   margin-top: -40px;
+  width: 200%;
 }
 
 .skillshopsBanner a:hover {
@@ -27,4 +32,7 @@
 
 #workshop {
   margin-top: 0;
+  color: #eee;
+  background: #333;
+  font-weight: 400;
 }
