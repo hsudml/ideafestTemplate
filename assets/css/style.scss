@@ -4,5 +4,6 @@
 @import "{{ site.theme }}";
 
 body {
-  background: url('images/skillshopsBanner.png');
+  background-image: url("https://hsudml.github.io/simpleSteps/images/skillshopsBanner.png");
+  background-repeat: no-repeat, repeat;
 }
