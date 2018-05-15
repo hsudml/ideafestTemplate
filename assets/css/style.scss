@@ -5,7 +5,7 @@
 
 .skillshopsBanner a {
   text-decoration: none;
-  color: rgba(142, 124, 195,0.8);
+  color: rgba(0, 102, 153,0.8);
   transition:all 0.5s ease;
 }
 
@@ -14,14 +14,14 @@
   font-size: 5em;
   margin: 0;
   padding: 0;
-  text-shadow: 8px 8px 4px rgba(142, 124, 195,0.4);
+  text-shadow: 8px 8px 4px rgba(0,0,0,0.2);
   transform: rotate(-2deg);
+  overflow: hidden;
 }
 
 .skillshopsBanner a:hover {
-  text-shadow: 2px 2px 1px rgba(142, 124, 195,0.4);
-  color: rgba(142, 124, 195,0.7);
-  
+  text-shadow: 2px 2px 1px rgba(0,0,0,0.2);
+  color: rgba(0, 102, 153,0.7);
 }
 
 #workshop {
