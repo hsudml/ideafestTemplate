@@ -7,33 +7,14 @@ body {
   overflow: hidden;
 }
 
-.skillshopsBanner a {
-  text-decoration: none;
-  color: rgba(0, 102, 153,0.8);
-  transition:all 0.5s ease;
-}
-
 .skillshopsBanner {
   font-family: lobster;
-  font-size: 4.7em;
+  color:#dedede;
+  font-size: 25vw;
+  position: fixed;
   margin: 0;
   padding: 0;
-  text-shadow: 8px 8px 4px rgba(0,0,0,0.2);
+  text-shadow: 8px 8px 4px rgba(0,0,0,0.15);
   transform: rotate(-2deg);
-  margin-top: -40px;
-}
-
-.skillshopsBanner a:hover {
-  text-shadow: 2px 2px 1px rgba(0,0,0,0.2);
-  color: rgba(0, 102, 153,0.7);
-  font-weight: 400;
-}
-
-#simple-steps-for-better-college-writing {
-  margin-top: 0;
-  color: #eee;
-  background: #333;
-  font-weight: 400;
-  padding-left: 5px;
-  width: 200%;
+  z-index: -1;
 }
