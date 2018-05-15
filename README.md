@@ -1,5 +1,3 @@
-<img src="images/skillshopsBanner.png" class="upright" />
-
 # Simple Steps for Better College Writing
 
 ## Workshop
