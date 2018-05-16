@@ -1,7 +1,7 @@
 ![Title banner](images/simpleStepsBanner.png)
 
 # Simple Steps for Better College Writing
-Paraphrase and Quotations
+Paraphrases and Quotations
 
 ## Digital Media Lab Quick Guide
 This short guide will get you started with your project. For more information about this or other topics, visit [http://libguides.humboldt.edu/dml](http://libguides.humboldt.edu/dml).
