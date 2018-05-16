@@ -1,3 +1,5 @@
+![Title banner](images/simpleStepsBanner.png)
+
 # Simple Steps for Better College Writing
 Paraphrase and Quotations
 
