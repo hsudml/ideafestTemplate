@@ -1,15 +1,15 @@
-# Simple Steps for Better College Writing
+# SkillShop Title
 
 ## Workshop
-__Simple Steps for Better College Writing__ is a 50-minute workshop and handout to teach and learn how to properly paraphrase and quote by Lydia Leonard-Rhodes.
+This is a 50-minute workshop overview and handout to teach and learn how to properly paraphrase and quote by Lydia Leonard-Rhodes.
 
-Lydia created the workshop as part of the Humboldt State University [SkillShops](http://humboldt.libcal.com/workshops) series as a [Digital Media & Learning Intern](http://libguides.humboldt.edu/dml/apply) in Spring 2018. The original workshops were offered on [March 29](https://humboldt.libcal.com/event/4046898) and [April 13](https://humboldt.libcal.com/event/4046920), 2018.
+NAME created the workshop as part of the Humboldt State University [SkillShops](http://humboldt.libcal.com/workshops) series as a [Digital Media & Learning Intern](http://libguides.humboldt.edu/dml/apply) in Spring 2018. The original workshops were offered on [March 29](https://humboldt.libcal.com/event/4046898) and [April 13](https://humboldt.libcal.com/event/4046920), 2018.
 
 ## Presentation Slides
-You can view and remix the [presentation slides](https://docs.google.com/presentation/d/e/2PACX-1vTzejAUyoJVbp6BXXqEUFZJkxa0Ga5NCCiVYCuMR8CM__8xgXLzN6FSvSYWQdbn-OlFrD3ifMsgZEve/pub?start=false&loop=false&delayms=3000) used for this workshop (CC BY Lydia Leonard-Rhodes).
+You can view and remix the [presentation slides](https://docs.google.com/presentation/d/e/2PACX-1vTzejAUyoJVbp6BXXqEUFZJkxa0Ga5NCCiVYCuMR8CM__8xgXLzN6FSvSYWQdbn-OlFrD3ifMsgZEve/pub?start=false&loop=false&delayms=3000) used for this workshop (CC BY NAME).
 
-## Activities
-Lydia's activities use material from [_How cats evolved to win the Internet_](https://www.nytimes.com/2016/10/16/opinion/sunday/how-cats-evolved-to-win-the-internet.html) by Abigail Tucker. 
+## Activities or extra resources
+The activities use material from [_How cats evolved to win the Internet_](https://www.nytimes.com/2016/10/16/opinion/sunday/how-cats-evolved-to-win-the-internet.html) by Abigail Tucker. 
 
 ## Guide
 
