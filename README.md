@@ -9,7 +9,7 @@ NAME created the workshop as part of the Humboldt State University [SkillShops](
 You can view and remix the [presentation slides](https://docs.google.com/presentation/d/e/2PACX-1vTzejAUyoJVbp6BXXqEUFZJkxa0Ga5NCCiVYCuMR8CM__8xgXLzN6FSvSYWQdbn-OlFrD3ifMsgZEve/pub?start=false&loop=false&delayms=3000) used for this workshop (CC BY NAME).
 
 ## Activities or extra resources
-The activities use material from [_How cats evolved to win the Internet_](https://www.nytimes.com/2016/10/16/opinion/sunday/how-cats-evolved-to-win-the-internet.html) by Abigail Tucker. 
+Links
 
 ## Guide
 
