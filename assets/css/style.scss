@@ -2,10 +2,24 @@
 ---
 
 @import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css?family=Lobster|Roboto:300,400,500,700,900&display=swap');
 
 body {
   background-image: url("../../images/cuttingBoard.png");
   background-repeat: no-repeat, repeat;
-  background-size: contain;
+  background-size: cover;
   background-attachment: fixed;
+}
+
+backdrop {
+    position: fixed;
+    font-family: lobster;
+    color: rgba(255,255,255,0.3);
+    font-size: 15vw;
+    z-index: -1;
+    text-shadow: 2vw 2vw 3px rgba(0,0,0,0.1);
+    transform: rotate;
+    transform: rotate(-2deg);
+    text-align: center;
+    width: 100%;
 }
