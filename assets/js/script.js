@@ -17,8 +17,9 @@ function addAnchorLink(){
     $(this).wrap('<a href="#'+sectionId+'"></a>');
     $(this).prepend('<ion-icon name="ios-link"></ion-icon>');
   });
-  console.log("anchorLink ran 2!");
-
+  $('h3').hover(function(){
+    $(this).find('ion-icon').toggle(); 
+  });
 }
 addAnchorLink();
 
