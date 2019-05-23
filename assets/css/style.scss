@@ -9,9 +9,22 @@ body {
   background-repeat: no-repeat, repeat;
   background-size: cover;
   background-attachment: fixed;
+  color: #fff;
 }
 
-backdrop {
+h1, h2, h3, h4, h5, h6 {
+  color: #ddd;
+}
+
+a {
+  color: #f8e71a;
+}
+
+a small {
+  color: #fff7a0;
+}
+
+.backdrop {
     position: fixed;
     font-family: lobster;
     color: rgba(255,255,255,0.3);
