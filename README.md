@@ -26,4 +26,3 @@ Humboldt State University Library | [Digital Media Lab](http://libguides.humbold
 
 For more info, questions, or suggestions, email dml@humboldt.edu
 
-{% include footer.html %}
