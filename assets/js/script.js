@@ -1,3 +1,5 @@
+$(function() {
+
 function backdropCreate(){
   var title = document.getElementById('ideafest-2018').innerText;
   var backdrop = document.createElement("div");   
@@ -8,11 +10,13 @@ function backdropCreate(){
 backdropCreate();
 
 function addAnchorLink(){
-  var anchor = document.getElementsByTagName('h3');
-    for (var i = 0; i < anchor.length; i++) {
-		  var anchorLink = document.createElement("ion-icon");   
-      anchorLink.setAttribute("name","ios-link");
-      anchor[i].prepend(anchorLink);
-    }
+  var boxId = "section";  
+  $('h3').each(function(i){
+    $(this).attr('id',boxId+i);
+    $(this).wrap('<a href="#'+boxId+'"></a>');
+    $(this).prepend('<ion-icon name="ios-link"></ion-icon>');
+  });
 }
 addAnchorLink();
+
+});
