@@ -25,3 +25,5 @@ We Are Your Community - Erin Youngblood-Smith and Amy Mathieson are two Masters 
 Humboldt State University Library | [Digital Media Lab](http://libguides.humboldt.edu/dml)
 
 For more info, questions, or suggestions, email dml@humboldt.edu
+
+{% include footer.html %}
