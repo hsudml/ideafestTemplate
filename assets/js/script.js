@@ -1,4 +1,5 @@
 $(function() {
+  console.log("function called!");
 
 function backdropCreate(){
   var title = document.getElementById('ideafest-2018').innerText;
@@ -16,7 +17,6 @@ function addAnchorLink(){
     $(this).wrap('<a href="#'+boxId+'"></a>');
     $(this).prepend('<ion-icon name="ios-link"></ion-icon>');
   });
-  console.log("anchorLink ran!");
 }
 addAnchorLink();
 
